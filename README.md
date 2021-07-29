@@ -14,7 +14,7 @@ This repository contains the source code for implementing data exchange through 
 
 ## Overview
 
-# Table of Contents
+## Table of Contents
 ## Quick Start
 
 ### Driver and Software Installation
