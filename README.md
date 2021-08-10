@@ -20,7 +20,7 @@ The UltraScale+ ZCU102 board from Xilinx is composed of the PS and the PL as Fig
 
 
 <p align="center">
-<img alt="Ethernet_PLPS" src="https://github.com/jracevedob/MPSoC_Networking/blob/main/Images/PLPS.png" width="800">
+<img alt="Ethernet_PLPS" src="https://github.com/jracevedob/MPSoC_Networking/blob/main/Figures/PLPS.png" width="800">
 </p>
 
 ## Table of Contents
