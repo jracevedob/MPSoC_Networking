@@ -1,23 +1,22 @@
 We are really grateful to everyone who has contributed or is contributing to the development and deployment
 of this project.
 
-
 Contributors include:
 
-Hardware Implementation and software design
+Hardware implementation and software design
 Javier Acevedo - javier.acevedo@tu-dresden.de
 
-Optical chip design and Testing
+Optical chip design and testing
 Shahryar Sabouri - shahryar.sabouri@tu-dresden.de
 
 Software design
 Shiwei Shen - shiwei.shen@tu-dresden.de
 
-Extension board - Albis Elcon 
+ADC extension board - Albis Elcon 
 Marco Dietrich - Marco.Dietrich@albis-elcon.com
 Christoph Keller - Christoph.Keller@albis-elcon.com
 
 We also thank to everyone who has sent pull requests or issues to improve this work.
 
 Finally, we would like to thank to the FastZwanzig for supporting the fastOptics project.
-Please refer to the following [Link] (https://de.fast-zwanzig20.de/) to get access to more detailed information about the project.
+Please refer to the following [Link](https://de.fast-zwanzig20.de/) to get access to more detailed information about the project.

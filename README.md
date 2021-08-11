@@ -5,7 +5,7 @@
 # MPSoC_Networking
 
 [![MIT Licensed](https://img.shields.io/github/license/jracevedob/MPSoC_Networking)](https://github.com/jracevedob/MPSoC_Networking/blob/main/LICENSE)
-[![Build Status](https://img.shields.io/github/checks-status/jracevedob/MPSoC_Networking/workflows/main.yml/badge.svg)](https://github.com//jracevedob/MPSoC_Networking/actions)
+[![Build Status](https://img.shields.io/github/checks-status/jracevedob/MPSoC_Networking/workflows/blank.yml/badge.svg)](https://github.com//jracevedob/MPSoC_Networking/actions)
 [![Documentation Status](https://readthedocs.org/projects/graphriccicurvature/badge/?version=latest)](https://github.com/jracevedob/MPSoC_Networking/wiki)
 [![Github All Releases](https://img.shields.io/github/downloads/jracevedob/MPSoC_Networking/total.svg)]()
 
@@ -26,21 +26,39 @@ The UltraScale+ ZCU102 board from Xilinx is composed of the PS and the PL as Fig
 ## Table of Contents
 ## Quick Start
 
-### Driver and Software Installation
+### Hardware
 
-### Examples
+### Software
 
-### Implementation
+### Driver development
 
+### Results
 
 ## Citations
 
+Currently, we are working in the writing of a publication where we are going to condense all the results and findings of this project. The ethernet communication is under development following this reference:
+
+```
+@Article{Acevedo2021,
+AUTHOR = {Acevedo, Javier and Sabouri, Shahryar  and Shen, Shiwei and Dietrich, Marco and Kambiz, Jamshidi and Fitzek, Frank H. P. },
+TITLE = {Blink: Ultrafast Optical Ethernet Communication using Multi-processor System-on-Chip},
+JOURNAL = {Electronics},
+VOLUME = {},
+YEAR = {2021},
+NUMBER = {},
+ARTICLE-NUMBER = {180},
+URL = {},
+ISSN = {},
+ABSTRACT = {}
+}
+```
 
 ## Contributing
 
 This project exists thanks to all people who contribute.
 The [list](./CONTRIBUTORS) of all contributors.
 
+Please refer to the following [Link](https://de.fast-zwanzig20.de/) to get access to more detailed information about the project.
 
 ## Contact
 
@@ -53,4 +71,6 @@ This project is licensed under the [MIT license](./LICENSE).
 
 ## News
 
-* **Hardware acceleration** - *Through RFSoC, we accelerate the Ethernet frame processing*
+* **09.08.2021** - *First release of the fastOptics repository*
+* **10.08.2021** - *Hardware modules for the communication between the PS and PL released*
+* **14.08.2021** - *Hardware-Software integration*
