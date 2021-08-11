@@ -5,7 +5,7 @@
 # MPSoC_Networking
 
 [![MIT Licensed](https://img.shields.io/github/license/jracevedob/MPSoC_Networking)](https://github.com/jracevedob/MPSoC_Networking/blob/main/LICENSE)
-[![Build Status](https://img.shields.io/github/checks-status/jracevedob/MPSoC_Networking/workflows/blank.yml/badge.svg)](https://github.com//jracevedob/MPSoC_Networking/actions)
+[![Build Status](https://img.shields.io/github/checks-status/jracevedob/MPSoC_Networking/workflows/build.yml/badge.svg)](https://github.com//jracevedob/MPSoC_Networking/actions)
 [![Documentation Status](https://readthedocs.org/projects/graphriccicurvature/badge/?version=latest)](https://github.com/jracevedob/MPSoC_Networking/wiki)
 [![Github All Releases](https://img.shields.io/github/downloads/jracevedob/MPSoC_Networking/total.svg)]()
 
@@ -64,10 +64,18 @@ Please refer to the following [Link](https://de.fast-zwanzig20.de/) to get acces
 
 * **Javier Acevedo** - *Contributor and Project Maintainer* javier.acevedo@tu-dresden.de
 
-
 ## License
 
 This project is licensed under the [MIT license](./LICENSE).
+
+## Documentation
+
+### Networking
+Vendor documentation [Link](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/862912682/Networking+in+QEMU)
+
+### Hardware-Software Codesign
+
+### Driver integration
 
 ## News
 
