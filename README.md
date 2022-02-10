@@ -10,13 +10,13 @@
 [![Github All Releases](https://img.shields.io/github/downloads/jracevedob/MPSoC_Networking/total.svg)]()
 
 
-This repository contains the source code for implementing data exchange through the SFP+ Cages of the Xilinx's Multi-processor System-on-Chip (MPSoC)
+This repository contains the source code for implementing data exchange through the SFP+ Cages of the Xilinx's Multi-processor System-on-Chip (MPSoC). We validate this implementation using an optical atenautor, connected to a DC voltage source.
 
 ## Overview
 
-The communication between the ZCU102 board and the Optical chip is based on the implementation of a complete 1G/2.5G and an 10G Ethernet subsystem. This subsystem functionality is provided by LogiCORE IP, which provides the Processing System (PS) and Programmable Logic (PL) hardware blocks to enable the communication between the application and the kernel modules. 
+The communication between the ZCU102 board and the fastOptics' optical chip is based on the implementation of a complete 1G/2.5G and an 10G Ethernet subsystem. This subsystem functionality is provided by LogiCORE IP, which provides the Processing System (PS) and Programmable Logic (PL) hardware blocks to enable the communication between the application and the kernel modules. 
 
-The UltraScale+ ZCU102 board from Xilinx is composed of the PS and the PL as Figure 1 depicts. The PS uses four Gigabit Ethernet Managers (GEMs), also known as GEM0, GEM1, GEM2, and GEM3; to configure different Ethernet interfaces independently. In the default setup of the ZCU102, the controller for each GEM is based on the Reduced Gigabit Media Independent Interface (RGMII), which reduces the amount of pins in the PHY- MAC interface by multiplexing data and control signals using the rising and falling edge of the clock. The Multiplexed I/O (MIO) maps the RGMII data to the Ethernet RGMII PHY device, which is a gigabit Ethernet PHY transceiver. 
+The Xilinx's UltraScale+ ZCU102 board is composed of the PS and the PL, as Figure 1 depicts. The PS uses four Gigabit Ethernet Managers (GEMs), also known as GEM0, GEM1, GEM2, and GEM3; to configure different Ethernet interfaces independently. In the default setup of the ZCU102, the controller for each GEM is based on the Reduced Gigabit Media Independent Interface (RGMII), which reduces the amount of pins in the PHY- MAC interface by multiplexing data and control signals using the rising and falling edge of the clock. The Multiplexed I/O (MIO) maps the RGMII data to the Ethernet RGMII PHY device, which is a gigabit Ethernet PHY transceiver. 
 
 
 <p align="center">
