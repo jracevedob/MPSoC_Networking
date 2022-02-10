@@ -82,3 +82,10 @@ Vendor documentation [Link](https://xilinx-wiki.atlassian.net/wiki/spaces/A/page
 * **09.08.2021** - *First release of the fastOptics repository*
 * **10.08.2021** - *Hardware modules for the communication between the PS and PL released*
 * **14.08.2021** - *Hardware-Software integration*
+* **10.02.2022** - *Migration to a private repository for testing*
+
+## Acknowledgement
+
+We are really grateful to the TU Dresden and Prof. Frank H. P. Fitzek for their support in the realization of this initiative.
+
+The project underlying this publication was supported by the Federal Ministry of Education and Research of Germany (BMBF) within the programme “Zwanzig20 – Partnership for Innovation” as part of the project consortium “fast” (funding reference number 03ZZ0532D).
