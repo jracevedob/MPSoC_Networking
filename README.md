@@ -2,7 +2,7 @@
 <img alt="fast_Optics" src="https://github.com/jracevedob/MPSoC_Networking/blob/main/Logo/fast.png" width="800">
 </p>
 
-# MPSoC_Networking
+# Xilinx's ZCU102 MPSoC Networking
 
 [![MIT Licensed](https://img.shields.io/github/license/jracevedob/MPSoC_Networking)](https://github.com/jracevedob/MPSoC_Networking/blob/main/LICENSE)
 [![Build Status](https://github.com//jracevedob/MPSoC_Networking/actions/workflows/build.yml/badge.svg)](https://github.com//jracevedob/MPSoC_Networking/actions)
