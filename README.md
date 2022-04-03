@@ -2,7 +2,7 @@
 <img alt="fast_Optics" src="https://github.com/jracevedob/MPSoC_Networking/blob/main/Logo/fast.png" width="800">
 </p>
 
-# MPSoC_Networking
+# Xilinx's ZCU102 MPSoC Networking
 
 [![MIT Licensed](https://img.shields.io/github/license/jracevedob/MPSoC_Networking)](https://github.com/jracevedob/MPSoC_Networking/blob/main/LICENSE)
 [![Build Status](https://github.com//jracevedob/MPSoC_Networking/actions/workflows/build.yml/badge.svg)](https://github.com//jracevedob/MPSoC_Networking/actions)
@@ -10,13 +10,13 @@
 [![Github All Releases](https://img.shields.io/github/downloads/jracevedob/MPSoC_Networking/total.svg)]()
 
 
-This repository contains the source code for implementing data exchange through the SFP+ Cages of the Xilinx's Multi-processor System-on-Chip (MPSoC)
+This repository contains the source code for implementing data exchange through the SFP+ Cages of the Xilinx's Multi-processor System-on-Chip (MPSoC). We validate this implementation using an optical atenautor, connected to a DC voltage source.
 
 ## Overview
 
-The communication between the ZCU102 board and the Optical chip is based on the implementation of a complete 1G/2.5G and an 10G Ethernet subsystem. This subsystem functionality is provided by LogiCORE IP, which provides the Processing System (PS) and Programmable Logic (PL) hardware blocks to enable the communication between the application and the kernel modules. 
+The communication between the ZCU102 board and the fastOptics' optical chip is based on the implementation of a complete 1G/2.5G and an 10G Ethernet subsystem. This subsystem functionality is provided by LogiCORE IP, which provides the Processing System (PS) and Programmable Logic (PL) hardware blocks to enable the communication between the application and the kernel modules. 
 
-The UltraScale+ ZCU102 board from Xilinx is composed of the PS and the PL as Figure 1 depicts. The PS uses four Gigabit Ethernet Managers (GEMs), also known as GEM0, GEM1, GEM2, and GEM3; to configure different Ethernet interfaces independently. In the default setup of the ZCU102, the controller for each GEM is based on the Reduced Gigabit Media Independent Interface (RGMII), which reduces the amount of pins in the PHY- MAC interface by multiplexing data and control signals using the rising and falling edge of the clock. The Multiplexed I/O (MIO) maps the RGMII data to the Ethernet RGMII PHY device, which is a gigabit Ethernet PHY transceiver. 
+The Xilinx's UltraScale+ ZCU102 board is composed of the PS and the PL, as Figure 1 depicts. The PS uses four Gigabit Ethernet Managers (GEMs), also known as GEM0, GEM1, GEM2, and GEM3; to configure different Ethernet interfaces independently. In the default setup of the ZCU102, the controller for each GEM is based on the Reduced Gigabit Media Independent Interface (RGMII), which reduces the amount of pins in the PHY- MAC interface by multiplexing data and control signals using the rising and falling edge of the clock. The Multiplexed I/O (MIO) maps the RGMII data to the Ethernet RGMII PHY device, which is a gigabit Ethernet PHY transceiver. 
 
 
 <p align="center">
@@ -82,3 +82,10 @@ Vendor documentation [Link](https://xilinx-wiki.atlassian.net/wiki/spaces/A/page
 * **09.08.2021** - *First release of the Randon Linear Network Coding in Multi-Processor System-on-Chip repository*
 * **10.08.2021** - *Benchmarking of C++ implementation *
 * **14.08.2021** - *Hardware-Software integration*
+* **10.02.2022** - *Migration to a private repository for testing*
+
+## Acknowledgement
+
+We are really grateful to the TU Dresden and Prof. Frank H. P. Fitzek for their support in the realization of this initiative.
+
+The project underlying this publication was supported by the Federal Ministry of Education and Research of Germany (BMBF) within the programme “Zwanzig20 – Partnership for Innovation” as part of the project consortium “fast” (funding reference number 03ZZ0532D).
