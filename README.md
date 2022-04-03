@@ -26,11 +26,11 @@ The UltraScale+ ZCU102 board from Xilinx is composed of the PS and the PL as Fig
 ## Table of Contents
 ## Quick Start
 
-### Hardware
+### Hardware 
 
 ### Software
 
-### Driver development
+### Driver integration
 
 ### Results
 
@@ -79,6 +79,6 @@ Vendor documentation [Link](https://xilinx-wiki.atlassian.net/wiki/spaces/A/page
 
 ## News
 
-* **09.08.2021** - *First release of the fastOptics repository*
-* **10.08.2021** - *Hardware modules for the communication between the PS and PL released*
+* **09.08.2021** - *First release of the Randon Linear Network Coding in Multi-Processor System-on-Chip repository*
+* **10.08.2021** - *Benchmarking of C++ implementation *
 * **14.08.2021** - *Hardware-Software integration*
