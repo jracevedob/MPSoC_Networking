@@ -108,10 +108,11 @@ Vendor documentation [Link](https://xilinx-wiki.atlassian.net/wiki/spaces/A/page
 
 ## News
 
-* **09.08.2021** - *First release of the Randon Linear Network Coding in Multi-Processor System-on-Chip repository*
-* **10.08.2021** - *Benchmarking of C++ implementation*
-* **14.08.2021** - *Hardware-Software integration*
+* **12.04.2021** - *Our paper called "High Bandwidth and Ultra Low-Latency Near IR Communication Network for CMOS-compatible Integrated Photonics Chips" has been accepted for its publication at the DE ITG Fachtagung Photonische Netze 2022 Confernce*
 * **10.02.2022** - *Migration to a private repository for testing*
+* **14.08.2021** - *Hardware-Software integration*
+* **10.08.2021** - *Benchmarking of C++ implementation*
+* **09.08.2021** - *First release of the Randon Linear Network Coding in Multi-Processor System-on-Chip repository*
 
 ## Acknowledgement
 
