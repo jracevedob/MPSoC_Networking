@@ -39,8 +39,37 @@ The Xilinx's UltraScale+ ZCU102 board is composed of the PS and the PL, as Figur
 Currently, we are working in the writing of a publication where we are going to condense all the results and findings of this project. The ethernet communication is under development following this reference:
 
 ```
-@Article{Acevedo2021,
-AUTHOR = {Acevedo, Javier and Sabouri, Shahryar  and Shen, Shiwei and Dietrich, Marco and Kambiz, Jamshidi and Fitzek, Frank H. P. },
+@INPROCEEDINGS{acevedo2022,
+  AUTHOR="Javier Acevedo and Shahryar Sabouri and Shiwei Shen and Christoph Keller and Joerg Hopfe and Stefan Reichmuth and Patrick Hobi and  Marco Dietrich and Kambiz Jamshidi and Frank H. P. Fitzek",
+  TITLE="High Bandwidth and Ultra Low-Latency Near IR Communication Network for CMOS-compatible Integrated Photonics Chips",
+  BOOKTITLE="VDE ITG Fachtagung Photonische Netze 2022 ",
+  ADDRESS="",
+  DAYS="19-20",
+  MONTH="may",
+  YEAR="2022",
+  ABSTRACT="Photonic Integrated Circuit (PIC) have outperformed its electrical counterpart in terms of on-chip processing
+and power consumption by transmitting and computing optical signals at ultra-high speed, using less energy. However, fully
+functional optical transceivers are still rare. This work introduces the design and implementation of a tunable transceiver and an
+optical communication network on top of an external laser source, functioning in the near-Infrared (IR) range. The transceiver
+is composed of the integrated circuit of an optical chip, a hardware acceleration interface, and a customized Digital-toAnalog Converter (DAC) at the transmitter and receiver side. The
+photonic chip was designed and fabricated on CMOS compatible and represents an integrated Optical Phased Array (OPA),
+which modulates light for multi-channel beam control. The twodimensional beam steering relies on an array of waveguide
+grating couplers, which ensures high accuracy and directionality during the narrow beam radiation. In the longitudinal direction,
+the beam is steered by a wavelength tuning mechanism, while for the lateral direction, the lobe is controlled by a network of
+thermo-optical phase shifters. The hardware accelerator, a Multiprocessor System-on-Chip (MPSoC), computes the source data
+with random coefficient in Galois Fields (GF) to generate coded packets, which flow throughout the optical beams. Additionally,
+the accelerator is also responsible for the selection of the input voltage within the DACs to control the optical chip. To ensure
+successful packet transmission when the transmitter and receiver are in motion, a dynamic sliding window protocol based on
+Random Linear Network Coding (RLNC) was designed and implemented at the MAC layer. Extensive simulation demonstrates
+that our implementation results in an average packet success rate of 93.58 % with reduction in average delay.",
+  KEYWORDS="Integrated Photonics Chip, Gilbert-Elliot (GE) Channels, MPSoC, IR Communication, RLNC, Dynamic Sliding Window (DSW), VCSEL.",
+  URL=""
+ }
+```
+
+```
+@Article{Acevedo2022,
+AUTHOR = {Acevedo, Javier and Sabouri, Shahryar and Shen, Shiwei and Dietrich, Marco and Kambiz, Jamshidi and Fitzek, Frank H. P. },
 TITLE = {Blink: Ultrafast Optical Ethernet Communication using Multi-processor System-on-Chip},
 JOURNAL = {Electronics},
 VOLUME = {},
@@ -80,7 +109,7 @@ Vendor documentation [Link](https://xilinx-wiki.atlassian.net/wiki/spaces/A/page
 ## News
 
 * **09.08.2021** - *First release of the Randon Linear Network Coding in Multi-Processor System-on-Chip repository*
-* **10.08.2021** - *Benchmarking of C++ implementation *
+* **10.08.2021** - *Benchmarking of C++ implementation*
 * **14.08.2021** - *Hardware-Software integration*
 * **10.02.2022** - *Migration to a private repository for testing*
 
