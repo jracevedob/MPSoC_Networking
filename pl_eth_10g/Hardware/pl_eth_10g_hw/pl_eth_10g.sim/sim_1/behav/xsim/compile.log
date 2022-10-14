@@ -1,0 +1,134 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_dma_rx_rst_0/sim/pl_eth_10g_dma_rx_rst_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_dma_rx_rst_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_dma_tx_rst_0/sim/pl_eth_10g_dma_tx_rst_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_dma_tx_rst_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_rx_data_fifo_0/sim/pl_eth_10g_rx_data_fifo_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_rx_data_fifo_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_rx_rst_n_0/sim/pl_eth_10g_rx_rst_n_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_rx_rst_n_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_sfp_tx_dis_0/sim/pl_eth_10g_sfp_tx_dis_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_sfp_tx_dis_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_tx_data_fifo_0/sim/pl_eth_10g_tx_data_fifo_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_tx_data_fifo_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_tx_rst_n_0/sim/pl_eth_10g_tx_rst_n_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_tx_rst_n_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xlconstant_0_0/sim/pl_eth_10g_xlconstant_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xlconstant_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xlconstant_1_0/sim/pl_eth_10g_xlconstant_1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xlconstant_1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xlconstant_2_0/sim/pl_eth_10g_xlconstant_2_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xlconstant_2_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/ip_0/sim/gtwizard_ultrascale_v1_7_gthe4_channel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gtwizard_ultrascale_v1_7_7_gthe4_channel
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/ip_0/sim/pl_eth_10g_xxv_ethernet_0_0_gt_gthe4_channel_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_gt_gthe4_channel_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/ip_0/sim/pl_eth_10g_xxv_ethernet_0_0_gt_gtwizard_gthe4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_gt_gtwizard_gthe4
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/ip_0/sim/pl_eth_10g_xxv_ethernet_0_0_gt_gtwizard_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_gt_gtwizard_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/ip_0/sim/pl_eth_10g_xxv_ethernet_0_0_gt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_gt
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_wrapper
+INFO: [VRFC 10-2458] undeclared symbol gtwiz_reset_qpll0reset_out, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:298]
+INFO: [VRFC 10-2458] undeclared symbol gtwiz_reset_qpll1reset_out, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:299]
+INFO: [VRFC 10-2458] undeclared symbol qpll1clk_in, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:310]
+INFO: [VRFC 10-2458] undeclared symbol qpll1refclk_in, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:311]
+INFO: [VRFC 10-2458] undeclared symbol qpll0clk_in_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:345]
+INFO: [VRFC 10-2458] undeclared symbol qpll0refclk_in_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:346]
+INFO: [VRFC 10-2458] undeclared symbol qpll1clk_in_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:347]
+INFO: [VRFC 10-2458] undeclared symbol qpll1refclk_in_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:348]
+INFO: [VRFC 10-2458] undeclared symbol gtwiz_reset_qpll0lock_in_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:349]
+INFO: [VRFC 10-2458] undeclared symbol gtwiz_reset_qpll1lock_in_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:350]
+INFO: [VRFC 10-2458] undeclared symbol drprst_in_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:434]
+INFO: [VRFC 10-2458] undeclared symbol gtwiz_reset_qpll0reset_out_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:610]
+INFO: [VRFC 10-2458] undeclared symbol gt_txusrclk2_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:726]
+INFO: [VRFC 10-2458] undeclared symbol gt_rxusrclk2_0, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_wrapper.v:727]
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_cdc_sync
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_retiming_sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_axi4_lite_if_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_mac_baser_axis_syncer_reset
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_mac_baser_axis_reset_flop
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_mac_baser_axis_syncer_level
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_mac_baser_axis_syncer_pulse
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_axi_cdc_sync_2stage
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_mac_baser_axis_syncer_pulse_no_syncer_reset
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_mac_baser_axis_pmtick_statsreg
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_mac_baser_axis_pif_registers
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_mac_baser_axis_axi_slave_2_ipif
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_mac_baser_axis_axi_if_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/pl_eth_10g_xxv_ethernet_0_0/gtwizard_ultrascale_v1_7_gthe4_common.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gtwizard_ultrascale_v1_7_7_gthe4_common
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/pl_eth_10g_xxv_ethernet_0_0/pl_eth_10g_xxv_ethernet_0_0_gt_gthe4_common_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_gt_gthe4_common_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_common_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_common_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_ultrascale_rx_userclk.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_ultrascale_rx_userclk
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/xxv_ethernet_v3_1_0/pl_eth_10g_xxv_ethernet_0_0_ultrascale_tx_userclk.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0_ultrascale_tx_userclk
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xxv_ethernet_0_0/pl_eth_10g_xxv_ethernet_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xxv_ethernet_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xbar_0/sim/pl_eth_10g_xbar_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xbar_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_auto_us_0/sim/pl_eth_10g_auto_us_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_auto_us_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_auto_us_1/sim/pl_eth_10g_auto_us_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_auto_us_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_auto_cc_0/sim/pl_eth_10g_auto_cc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_auto_cc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_auto_us_2/sim/pl_eth_10g_auto_us_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_auto_us_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_auto_cc_1/sim/pl_eth_10g_auto_cc_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_auto_cc_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_s00_mmu_0/sim/pl_eth_10g_s00_mmu_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_s00_mmu_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_s01_mmu_0/sim/pl_eth_10g_s01_mmu_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_s01_mmu_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_s02_mmu_0/sim/pl_eth_10g_s02_mmu_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_s02_mmu_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xbar_1/sim/pl_eth_10g_xbar_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xbar_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_auto_ds_0/sim/pl_eth_10g_auto_ds_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_auto_ds_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_auto_pc_0/sim/pl_eth_10g_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_auto_ds_1/sim/pl_eth_10g_auto_ds_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_auto_ds_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_auto_pc_1/sim/pl_eth_10g_auto_pc_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_auto_pc_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_util_vector_logic_0_0/sim/pl_eth_10g_util_vector_logic_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_util_vector_logic_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_xlconcat_0_0/sim/pl_eth_10g_xlconcat_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_xlconcat_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_zynq_ultra_ps_e_0_0/sim/pl_eth_10g_zynq_ultra_ps_e_0_0_vip_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_zynq_ultra_ps_e_0_0
+INFO: [VRFC 10-2458] undeclared symbol pl_clk2, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_zynq_ultra_ps_e_0_0/sim/pl_eth_10g_zynq_ultra_ps_e_0_0_vip_wrapper.v:252]
+INFO: [VRFC 10-2458] undeclared symbol pl_clk3, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_zynq_ultra_ps_e_0_0/sim/pl_eth_10g_zynq_ultra_ps_e_0_0_vip_wrapper.v:254]
+INFO: [VRFC 10-2458] undeclared symbol saxigp2_racount, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_zynq_ultra_ps_e_0_0/sim/pl_eth_10g_zynq_ultra_ps_e_0_0_vip_wrapper.v:513]
+INFO: [VRFC 10-2458] undeclared symbol saxigp2_wacount, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_zynq_ultra_ps_e_0_0/sim/pl_eth_10g_zynq_ultra_ps_e_0_0_vip_wrapper.v:514]
+INFO: [VRFC 10-2458] undeclared symbol saxigp2_rcount, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_zynq_ultra_ps_e_0_0/sim/pl_eth_10g_zynq_ultra_ps_e_0_0_vip_wrapper.v:515]
+INFO: [VRFC 10-2458] undeclared symbol saxigp2_wcount, assumed default net type wire [/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_zynq_ultra_ps_e_0_0/sim/pl_eth_10g_zynq_ultra_ps_e_0_0_vip_wrapper.v:516]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/sim/pl_eth_10g.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m00_couplers_imp_14E7AOK
+INFO: [VRFC 10-311] analyzing module m00_couplers_imp_1E439ZY
+INFO: [VRFC 10-311] analyzing module m01_couplers_imp_1M9GWM0
+INFO: [VRFC 10-311] analyzing module m02_couplers_imp_Z1SUS2
+INFO: [VRFC 10-311] analyzing module pl_eth_10g
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_axi_pl_ps_0
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_ps_axi_periph_0
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_1NM33Q7
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_1VNEFIT
+INFO: [VRFC 10-311] analyzing module s01_couplers_imp_15TGY8J
+INFO: [VRFC 10-311] analyzing module s02_couplers_imp_FUK80P
+INFO: [VRFC 10-311] analyzing module zups_imp_LJOBZF
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/hdl/pl_eth_10g_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pl_eth_10g_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_axi_dma_0_0/sim/pl_eth_10g_axi_dma_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pl_eth_10g_axi_dma_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/supersonic/Lab/ZCU102-Ethernet/2019.2/pl_eth_10g/Hardware/pl_eth_10g_hw/pl_eth_10g.srcs/sources_1/bd/pl_eth_10g/ip/pl_eth_10g_rst_ps8_0_99M_0/sim/pl_eth_10g_rst_ps8_0_99M_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pl_eth_10g_rst_ps8_0_99M_0'

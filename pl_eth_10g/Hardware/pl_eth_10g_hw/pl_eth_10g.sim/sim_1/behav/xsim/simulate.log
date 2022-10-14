@@ -1,0 +1,33 @@
+Vivado Simulator 2019.2
+Time resolution is 1 fs
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.S_AXI_ACP.slave
+[0] : *ZYNQ_MPSoC_BFM_INFO : S_AXI_ACP : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.S_AXI_ACE.slave
+[0] : *ZYNQ_MPSoC_BFM_INFO : S_AXI_ACE : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.S_AXI_HPC0_FPD.slave
+[0] : *ZYNQ_MPSoC_BFM_INFO : S_AXI_GP0 : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.S_AXI_HPC1_FPD.slave
+[0] : *ZYNQ_MPSoC_BFM_INFO : S_AXI_GP1 : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.S_AXI_HP0_FPD.slave
+[0] : *ZYNQ_MPSoC_BFM_INFO : S_AXI_GP2 : Port is ENABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.S_AXI_HP1_FPD.slave
+[0] : *ZYNQ_MPSoC_BFM_INFO : S_AXI_GP3 : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.S_AXI_HP2_FPD.slave
+[0] : *ZYNQ_MPSoC_BFM_INFO : S_AXI_GP4 : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.S_AXI_HP3_FPD.slave
+[0] : *ZYNQ_MPSoC_BFM_INFO : S_AXI_GP5 : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.S_AXI_HPM0_LPD.slave
+[0] : *ZYNQ_MPSoC_BFM_INFO : S_AXI_GP6 : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.M_AXI_HPM0_FPD.master
+[0] : *ZYNQ_MPSoC_BFM_INFO : M_AXI_GP0 : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.M_AXI_HPM1_FPD.master
+[0] : *ZYNQ_MPSoC_BFM_INFO : M_AXI_GP1 : Port is DISABLED.
+XilinxAXIVIP: Found at Path: pl_eth_10g_wrapper.pl_eth_10g_i.zups.zynq_ultra_ps_e_0.inst.M_AXI_HPM0_LPD.master
+[0] : *ZYNQ_MPSoC_BFM_INFO : M_AXI_GP2 : Port is ENABLED.
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. pl_eth_10g_wrapper.pl_eth_10g_i.axi_dma_0.U0.I_PRMRY_DATAMOVER.gen_s2mm_full.I_S2MM_FULL_WRAPPER.gen_enable_indet_btt_sf.I_INDET_BTT.I_XD_FIFO.non_blk_mem.I_SYNC_FIFOGEN_FIFO.xpm_fifo_instance.xpm_fifo_sync_inst.xpm_fifo_base_inst.gen_sdpram.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /pl_eth_10g_wrapper/pl_eth_10g_i/axi_dma_0/U0/I_PRMRY_DATAMOVER/gen_s2mm_full/I_S2MM_FULL_WRAPPER/gen_enable_indet_btt_sf/I_INDET_BTT/I_XD_FIFO/non_blk_mem/I_SYNC_FIFOGEN_FIFO/xpm_fifo_instance/xpm_fifo_sync_inst/xpm_fifo_base_inst/gen_sdpram.xpm_memory_base_inst/Initial290_927  File: /wrk/2019.2/continuous/2019_11_06_2708876/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv

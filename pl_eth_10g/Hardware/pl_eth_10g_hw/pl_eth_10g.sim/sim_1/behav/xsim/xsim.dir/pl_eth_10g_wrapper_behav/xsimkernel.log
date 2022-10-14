@@ -1,0 +1,4 @@
+Running: xsim.dir/pl_eth_10g_wrapper_behav/xsimk -simmode gui -wdb pl_eth_10g_wrapper_behav.wdb -simrunnum 0 -socket 59843
+Design successfully loaded
+Design Loading Memory Usage: 173944 KB (Peak: 173944 KB)
+Design Loading CPU Usage: 280 ms

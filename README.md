@@ -26,8 +26,12 @@ The Xilinx's UltraScale+ ZCU102 board is composed of the PS and the PL, as Figur
 ## Table of Contents
 ## Quick Start
 
+The implementation of the 1Gbps transceiver is two-fold. The hardware modules were implemented in
+Xilinx's Vivado 2019.2.
 ### Hardware 
-
+In the Vivado's workspace the chip's module was exported, using the IP integrator. Inside the
+integrator, the interface modules were activated throughout the GEM4, which allow to fast communicate 
+either the SFP+ cages with the output interface of the chip via the Programmable Logic.
 ### Software
 
 ### Driver integration
