@@ -113,6 +113,7 @@ Vendor documentation [Link](https://xilinx-wiki.atlassian.net/wiki/spaces/A/page
 ## News
 
 * **14.10.2022** - *Ethernet inteface validation*
+* **26.06.2023** - *Preparation of the final report for the project funding comittee*
 
 ## Acknowledgement
 
